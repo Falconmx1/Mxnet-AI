@@ -18,3 +18,20 @@
 git clone https://github.com/Falconmx1/Mxnet-AI.git
 cd Mxnet-AI
 pip install -r requirements.txt
+
+🎯 Uso básico
+python mxnet.py --target 192.168.1.1 --scan-type full
+
+🖼️ Banner
+  ╔═══════════════════════════╗
+  ║   🛡️  MXNET AI  v1.0  🛡️  ║
+  ║   Red Teaming con IA       ║
+  ╚═══════════════════════════╝
+
+🧪 Requisitos
+
+    Python 3.8+
+
+    Nmap instalado en el sistema
+
+    Windows: Nmap en PATH o C:\Program Files\Nmap
