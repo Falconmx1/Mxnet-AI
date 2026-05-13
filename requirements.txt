@@ -1,0 +1,5 @@
+python-nmap==0.7.1
+colorama==0.4.6
+rich==13.7.0
+# OpenAI opcional si quieres IA real:
+# openai==1.30.1
